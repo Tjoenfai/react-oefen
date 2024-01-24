@@ -1,0 +1,21 @@
+SEO Rapport: Toepassing van 3 van 5 SEO technieken
+
+Deze website maakt gebruik van de volgende SEO technieken:
+
+Meta-titels Meta-titels zijn korte beschrijvingen van een webpagina die verschijnen in de zoekresultaten van zoekmachines. De meta-titels van deze website zijn relevant en beschrijven adequaat de inhoud van de webpagina's.
+
+Headings Headings, of kopjes, zijn belangrijk voor de leesbaarheid en structuur van een webpagina. Deze website maakt gebruik van headings om de inhoud te structureren en zo de zoekmachine-optimatie te verbeteren.
+
+Content De inhoud van deze website is relevant en nuttig voor de doelgroep. De tekst is goed geschreven en bevat de juiste keywoorden om gevonden te worden in de zoekmachines.
+
+De volgende SEO technieken zijn niet toegepast op deze website:
+
+Alt tags Alt tags zijn beschrijvingen van afbeeldingen die verschijnen als de afbeelding niet kan worden weergegeven. Het toevoegen van alt tags aan afbeeldingen kan helpen om de website toegankelijker te maken en de zoekmachine-optimatie te verbeteren.
+
+Keywords Keywords zijn termen die gebruikers typen in zoekmachines om informatie te vinden. Het optimaliseren van de inhoud met de juiste keywoorden kan helpen om beter te scoren in de zoekresultaten.
+
+Aanbevelingen:
+
+Voeg alt tags toe aan alle afbeeldingen om de toegankelijkheid en zoekmachine-optimatie te verbeteren.
+Identificeer de belangrijkste keywoorden voor elke webpagina en zorg ervoor dat ze regelmatig in de inhoud voorkomen.
+Met deze aanbevelingen kan de website beter worden geoptimaliseerd voor zoekmachines en meer bezoekers aantrekken.
